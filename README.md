@@ -186,9 +186,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
+- **Email**: pyaesonephyoe.utycc@gmail.com
+- **GitHub**: [@PyaeSonePhyoe4545](https://github.com/PyaeSonePhyoe4545)
+- **LinkedIn**: [Pyae Sone Phyoe](https://www.linkedin.com/in/pyae-sone-phyoe/)
 
 ---
 
